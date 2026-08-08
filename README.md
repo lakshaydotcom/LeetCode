@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshaydotcom/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/lakshaydotcom/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/lakshaydotcom/LeetCode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/lakshaydotcom/LeetCode/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshaydotcom/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshaydotcom/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Ternary Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshaydotcom/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/lakshaydotcom/LeetCode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
